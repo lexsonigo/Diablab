@@ -1,0 +1,11 @@
+{
+  "name": "diabalab",
+  "version": "1.0.0",
+  "description": "diablab package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
