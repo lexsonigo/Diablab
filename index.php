@@ -7,6 +7,6 @@
     <title>Diablab</title>
 </head>
 <body>
-    hey bg
+    
 </body>
 </html>

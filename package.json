@@ -4,7 +4,8 @@
   "description": "diablab package json",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "compile:sass": "node-sass sass/main.scss css/style.css"
   },
   "author": "",
   "license": "ISC",
